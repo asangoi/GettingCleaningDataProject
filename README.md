@@ -38,7 +38,7 @@ The for loop then iterates the length of the redAct vector and replaces the numb
 * abcd - variable containing the decast data with mean function applied
 
 Finally the dataframe abcd is written to a file called tidy_set.txt.
-The code file is named run_analysis.R and is commiteed to this repo.
+The code file is named run_analysis.R and is committed to this repo.
 
 ### Notes ###
 * Print commands have been added in the middle - it serves as a progress indicator
