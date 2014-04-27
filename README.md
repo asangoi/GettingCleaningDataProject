@@ -37,7 +37,7 @@ The for loop then iterates the length of the redAct vector and replaces the numb
 * molten - variable contained the melted data
 * abcd - variable containing the decast data with mean function applied
 
-Finally the variable abcd is written to a file called tidy_set.txt
+Finally the dataframe abcd is written to a file called tidy_set.txt
 
 ### Notes ###
 * Print commands have been added in the middle - it serves as a progress indicator
